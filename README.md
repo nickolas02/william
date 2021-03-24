@@ -21,3 +21,9 @@ Dyanmic greeting based on the string we store in our username variable.
 
 [HTML](https://nndecker.dev/william/string-variables) | 
 [JS](https://nndecker.dev/william/string-variables/js/string-variable.js)
+
+### Array Literals
+Declaring and pulling data from an array literal. 
+
+[HTML](https://nndecker.dev/william/array-literals) | 
+[JS](https://nndecker.dev/william/array-literals/js/array-literals.js)
