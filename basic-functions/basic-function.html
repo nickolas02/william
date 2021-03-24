@@ -1,13 +1,29 @@
-<!DOCTYPE HTML>
 
-<head>
-  <link href="style.css" rel="stylesheet">
-  <h2>BeachCoders CodeWave Bootcamp</h2>
-</head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BeachCoders</title>
+    <link rel="stylesheet" href="css/c01.css" />
+  </head>
+  <body>
+    <h1>Welcome to BeachCoders!</h1>
+    <script>
+    var today = new Date();
+    var hourNow = today.getHours();
+    var greeting;
 
-<body>
-  <---- link our external script ---->
-  <script src="add-content.js"></script>
-</body>
+    if (hourNow > 18) {
+        greeting = 'Good evening!';
+    } else if (hourNow > 12) {
+        greeting = 'Good afternoon!';
+    } else if (hourNow > 0) {
+        greeting = 'Good morning!';
+    } else {
+        greeting = 'Welcome!';
+    }
 
+    document.write('<h3>' + greeting + 'Welcome to Beach Coders!'  '</h3>');
+</script>
+    <p>For all orders and inquiries please call <em>555-3344</em></p>
+  </body>
 </html>
