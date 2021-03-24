@@ -28,15 +28,9 @@ Declaring and pulling data from an array literal.
 [HTML](https://nndecker.dev/william/array-literals) | 
 [JS](https://nndecker.dev/william/array-literals/js/array-literal.js)
 
-### Object Literals
-Hotel website displaying the number of rooms still available using our own Hotel() object.
-
-https://nndecker.dev/william/object-literals/
-[HTML](https://nndecker/dev/william/object-literals) |
-[JS](https://nndecker.dev/william/object-literals/js/object-literals.js)
 
 ### Object Literals
 Hotel website displaying the number of rooms still available using our own Hotel() object.
 
 [HTML](https://nndecker.dev/william/object-literals) | 
-[JS](https://nndecker.dev/william/object-literals/js/object-literals.js)
+[JS](https://nndecker.dev/william/object-literals/js/object-literal.js)
