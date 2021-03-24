@@ -10,7 +10,7 @@ Dyanmic greeting based on time that user visits the page.
 
 
 ### Numeric Variables
-Dyanmic greeting based on time that user visits the page.
+Dyanmic price based on the value we assign to our cost variable. 
 
 [HTML](https://nndecker.dev/william/numeric-variables) | 
 [JS](https://nndecker.dev/william/numeric-variables/js/numeric-variable.js)
