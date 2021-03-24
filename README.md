@@ -7,3 +7,10 @@ Dyanmic greeting based on time that user visits the page.
 
 [HTML](https://nndecker.dev/william/basic-functions/) | 
 [JS](https://nndecker.dev/william/basic-functions/js/add-content.js)
+
+
+### Numeric Variables
+Dyanmic greeting based on time that user visits the page.
+
+[HTML](https://nndecker.dev/william/numeric-variables) | 
+[JS](https://nndecker.dev/william/numeric-variables/js/numeric-variable.js)
