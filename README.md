@@ -17,7 +17,7 @@ Dyanmic greeting based on time that user visits the page.
 
 
 ### String Variables
-Dyanmic greeting based on the user who visits the page
+Dyanmic greeting based on the string we store in our username variable. 
 
 [HTML](https://nndecker.dev/william/string-variables) | 
 [JS](https://nndecker.dev/william/string-variables/js/string-variable.js)
