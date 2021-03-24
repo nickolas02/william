@@ -26,4 +26,4 @@ Dyanmic greeting based on the string we store in our username variable.
 Declaring and pulling data from an array literal. 
 
 [HTML](https://nndecker.dev/william/array-literals) | 
-[JS](https://nndecker.dev/william/array-literals/js/array-literals.js)
+[JS](https://nndecker.dev/william/array-literals/js/array-literal.js)
