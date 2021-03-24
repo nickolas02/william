@@ -34,3 +34,9 @@ Hotel website displaying the number of rooms still available using our own Hotel
 
 [HTML](https://nndecker.dev/william/object-literals) | 
 [JS](https://nndecker.dev/william/object-literals/js/object-literal.js)
+
+### Object Properties
+Hotel website utilizing object properties.
+
+[HTML](https://nndecker.dev/william/object-properties) | 
+[JS](https://nndecker.dev/william/object-properties/js/adding-and-removing-properties.js)
